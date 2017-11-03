@@ -1,0 +1,36 @@
+body{
+    background-image: url("../images/hypnotize.png");
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#option-A{
+    height: 50px;
+}
+
+#option-A:hover{
+   background-color: lightblue;
+}
+
+#option-B{
+    height: 50px;
+}
+
+#option-B:hover{
+    background-color: lightblue;
+ }
+
+#option-C{
+    height: 50px;
+}
+
+#option-C:hover{
+    background-color: lightblue;
+ }
+
+#option-D{
+    height: 50px;
+}
+
+#option-D:hover{
+    background-color: lightblue;
+ }
